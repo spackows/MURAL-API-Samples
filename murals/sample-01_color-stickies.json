@@ -1,0 +1,81 @@
+[
+  {
+    "height": 382.750001220703,
+    "id": "0-1650991681040",
+    "width": 608.2500024414062,
+    "x": 302.94,
+    "y": 314.78,
+    "shape": "square",
+    "style": {
+      "backgroundColor": "#FFFFFF00",
+      "strokeColor": "#000000FF",
+      "strokeSize": 3,
+      "strokeStyle": "solid"
+    },
+    "type": "shape"
+  },
+  {
+    "height": 138,
+    "id": "0-1650991688310",
+    "title": "",
+    "width": 138,
+    "x": 233.94,
+    "y": 156.77999999999997,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#CB8CF9FF",
+      "bold": false,
+      "font": "proxima-nova",
+      "fontSize": 23,
+      "italic": false,
+      "strike": false,
+      "textAlign": "center",
+      "underline": false,
+      "border": false
+    },
+    "text": "This is outside",
+    "type": "sticky note"
+  },
+  {
+    "height": 138,
+    "id": "0-1650991701198",
+    "width": 138,
+    "x": 564.07,
+    "y": 239.28,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#FFCB43FF",
+      "bold": false,
+      "font": "proxima-nova",
+      "fontSize": 23,
+      "italic": false,
+      "strike": false,
+      "textAlign": "center",
+      "underline": false,
+      "border": false
+    },
+    "text": "This overlaps",
+    "type": "sticky note"
+  },
+  {
+    "height": 138,
+    "id": "0-1650991717299",
+    "width": 138,
+    "x": 406.07000000000005,
+    "y": 397.28,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#2D9613FF",
+      "bold": false,
+      "font": "proxima-nova",
+      "fontSize": 23,
+      "italic": false,
+      "strike": false,
+      "textAlign": "center",
+      "underline": false,
+      "border": false
+    },
+    "text": "This is inside",
+    "type": "sticky note"
+  }
+]
