@@ -21,7 +21,7 @@
     "width": 138,
     "x": 233.94,
     "y": 156.77999999999997,
-    "shape": "square",
+    "shape": "rectangle",
     "style": {
       "backgroundColor": "#CB8CF9FF",
       "bold": false,
@@ -42,7 +42,7 @@
     "width": 138,
     "x": 564.07,
     "y": 239.28,
-    "shape": "square",
+    "shape": "rectangle",
     "style": {
       "backgroundColor": "#FFCB43FF",
       "bold": false,
@@ -63,7 +63,7 @@
     "width": 138,
     "x": 406.07000000000005,
     "y": 397.28,
-    "shape": "square",
+    "shape": "rectangle",
     "style": {
       "backgroundColor": "#2D9613FF",
       "bold": false,
