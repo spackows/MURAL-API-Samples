@@ -1,0 +1,90 @@
+[
+  {
+    "height": 138,
+    "id": "08236fbb-198e-4c25-b6b9-7df30ed73589",
+    "width": 138,
+    "x": 233.94,
+    "y": 156.77999999999997,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#CB8CF9FF",
+      "bold": false,
+      "font": "proxima-nova",
+      "fontSize": 23,
+      "italic": false,
+      "strike": false,
+      "textAlign": "center",
+      "underline": false,
+      "border": false
+    },
+    "text": "This is outside",
+    "type": "sticky note"
+  },
+  {
+    "height": 138,
+    "id": "6956c909-f5bd-45ea-9a84-9dd12a4b0980",
+    "width": 138,
+    "x": 564.07,
+    "y": 239.28,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#FFCB43FF",
+      "bold": false,
+      "font": "proxima-nova",
+      "fontSize": 23,
+      "italic": false,
+      "strike": false,
+      "textAlign": "center",
+      "underline": false,
+      "border": false
+    },
+    "text": "This overlaps",
+    "type": "sticky note"
+  },
+  {
+    "height": 138,
+    "id": "8b172423-4cfd-4f5e-87b0-c1492c642178",
+    "width": 138,
+    "x": 406.07000000000005,
+    "y": 397.28,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#2D9613FF",
+      "bold": false,
+      "font": "proxima-nova",
+      "fontSize": 23,
+      "italic": false,
+      "strike": false,
+      "textAlign": "center",
+      "underline": false,
+      "border": false
+    },
+    "text": "This is inside",
+    "type": "sticky note"
+  },
+  {
+    "height": 382.750001220703,
+    "id": "0-1651018696848",
+    "width": 382.750001220703,
+    "x": 302.94,
+    "y": 314.78,
+    "shape": "circle",
+    "style": {
+      "backgroundColor": "#FFFFFF00",
+      "bold": false,
+      "font": "proxima-nova",
+      "fontSize": 23,
+      "italic": false,
+      "strike": false,
+      "textAlign": "center",
+      "underline": false,
+      "fontColor": "#000000FF",
+      "strokeColor": "#000000FF",
+      "strokeSize": 3,
+      "strokeStyle": "solid"
+    },
+    "type": "shape"
+  }
+]
+
+​
