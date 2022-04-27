@@ -1,0 +1,275 @@
+[
+   {
+      "height": 138,
+      "id": "08236fbb-198e-4c25-b6b9-7df30ed73589",
+      "width": 138,
+      "x": 233.94,
+      "y": 156.77999999999997,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#CB8CF9FF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 23,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "I love winter!",
+      "type": "sticky note"
+   },
+   {
+      "height": 138,
+      "id": "6956c909-f5bd-45ea-9a84-9dd12a4b0980",
+      "width": 138,
+      "x": 589.07,
+      "y": 91.78,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FFCB43FF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 23,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "I don't do well in the heat",
+      "type": "sticky note"
+   },
+   {
+      "height": 138,
+      "id": "8b172423-4cfd-4f5e-87b0-c1492c642178",
+      "width": 138,
+      "x": 406.07,
+      "y": 225.78,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FFC2E8FF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 23,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "Fall is colourful",
+      "type": "sticky note"
+   },
+   {
+      "height": 138,
+      "id": "0-1651021491666",
+      "width": 138,
+      "x": 615.32,
+      "y": 294.78,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#2589A7FF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 23,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "Spring makes me feel optimistic",
+      "type": "sticky note"
+   },
+   {
+      "height": 138,
+      "id": "0-1651021504402",
+      "width": 138,
+      "x": 830.82,
+      "y": 188.03,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FF5BA0FF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 23,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "I hate the cold",
+      "type": "sticky note"
+   },
+   {
+      "height": 138,
+      "id": "0-1651021518502",
+      "width": 138,
+      "x": 129.45088413783478,
+      "y": 397.28,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#CA1041FF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 23,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "Fall leaves are beautiful",
+      "type": "sticky note"
+   },
+   {
+      "height": 172.99997070312497,
+      "id": "0-1651021530675",
+      "width": 172.99997070312497,
+      "x": 334.32,
+      "y": 397.28,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#C7FE80FF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 20.135413309733067,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "Nothing is as soothing as drinking hot chocolate after being out in the cold",
+      "type": "sticky note"
+   },
+   {
+      "height": 138,
+      "id": "0-1651021589987",
+      "width": 138,
+      "x": 1015.32,
+      "y": 67.78,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FCFE7DFF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 19.5625,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "Swimming in the summer makes me so happy",
+      "type": "sticky note"
+   },
+   {
+      "height": 165.5000012207031,
+      "id": "0-1651021606777",
+      "width": 165.5000012207031,
+      "x": 803.32,
+      "y": 346.03,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FF7139FF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 24.26041684468587,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "I feel sad watching everything die off in the fall",
+      "type": "sticky note"
+   },
+   {
+      "height": 138,
+      "id": "0-1651021656085",
+      "width": 138,
+      "x": 1058.2,
+      "y": 397.28,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#AA35DBFF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 23,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "summer is for relaxing",
+      "type": "sticky note"
+   },
+   {
+      "height": 138,
+      "id": "0-1651022626500",
+      "width": 138,
+      "x": 564.07,
+      "y": 483.78,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#80499AFF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 23,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "spring and fall are shorter",
+      "type": "sticky note"
+   },
+   {
+      "height": 138,
+      "id": "0-1651022647878",
+      "width": 138,
+      "x": 1015.3200000000002,
+      "y": 225.78,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#4CDEF2FF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 23,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "seasons bring a change of pace",
+      "type": "sticky note"
+   },
+   {
+      "height": 155.7500012207031,
+      "id": "0-1651022704643",
+      "width": 155.7500012207031,
+      "x": 42.7,
+      "y": 119.03,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#3AC010FF",
+         "bold": false,
+         "font": "proxima-nova",
+         "fontSize": 25.95833353678385,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false,
+         "border": false
+      },
+      "text": "We go south for the winter every year",
+      "type": "sticky note"
+   }
+]
