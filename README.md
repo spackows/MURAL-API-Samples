@@ -62,4 +62,19 @@ Sample code snippets demonstrating using the MURAL API
 </ul>
 </td>
 </tr>
+<!-- sample 05 -->
+<tr>
+<td valign="top">
+<p><b>sample-05_color-code-by-sentiment</b></p>
+<img src="images/sample-05_color-code-by-sentiment.gif" width="200" title="Image of mural" />
+</td>
+<td valign="top">
+<p>Demonstrates how to change the color of sticky notes in a mural</p>
+<p>Uses the <a href="https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/watson-nlp.html">IBM Watson NLP Python library (beta)</a></p>
+<ul>
+<li><a href="murals/sample-05_color-code-by-sentiment.json">Sample mural .json</a></li>
+<li><a href="notebooks/sample-05_color-code-by-sentiment.ipynb">Sample Python notebook</a></li>
+</ul>
+</td>
+</tr>
 </table>
