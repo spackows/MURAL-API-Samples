@@ -77,4 +77,20 @@ Sample code snippets demonstrating using the MURAL API
 </ul>
 </td>
 </tr>
+<!-- sample 06 -->
+<tr>
+<td valign="top">
+<p><b>sample-06_group</b></p>
+<img src="images/sample-06_group.gif" width="200" title="Image of mural" />
+</td>
+<td valign="top">
+<p>Demonstrates how to move sticky notes into groups inside shapes (by color)</p>
+<ul>
+<li><a href="murals/sample-06_group.json">Sample mural .json</a></li>
+<li><a href="notebooks/sample-06_group.ipynb">Sample Python notebook</a></li>
+</ul>
+</td>
+</tr>
 </table>
+
+<p>&nbsp;</p>
