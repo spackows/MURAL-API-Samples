@@ -91,6 +91,19 @@ Sample code snippets demonstrating using the MURAL API
 </ul>
 </td>
 </tr>
+<!-- sample 07 -->
+<tr>
+<td valign="top">
+<p><b>sample-07_add-sticky-notes</b></p>
+<img src="images/sample-07_add-sticky-notes.gif" width="200" title="Image of mural" />
+</td>
+<td valign="top">
+<p>Demonstrates how to add sticky notes into a rectangle in organic-seeming, random positions</p>
+<ul>
+<li><a href="notebooks/sample-07_add-sticky-notes.ipynb">Sample Python notebook</a></li>
+</ul>
+</td>
+</tr>
 </table>
 
 <p>&nbsp;</p>
