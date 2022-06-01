@@ -118,6 +118,20 @@ Sample code snippets demonstrating using the MURAL API
 </ul>
 </td>
 </tr>
+<!-- sample 09 -->
+<tr>
+<td valign="top">
+<p><b>sample-09_absolute-position</b></p>
+<img src="images/sample-09_absolute-position.png" width="200" title="Image of mural" />
+</td>
+<td valign="top">
+<p>Get the absolute <tt>[ x, y ]</tt> position of grouped widgets</p>
+<ul>
+<li><a href="murals/sample-09_absolute-position.json">Sample mural .json</a></li>
+<li><a href="notebooks/sample-09_absolute-position.ipynb">Sample Python notebook</a></li>
+</ul>
+</td>
+</tr>
 </table>
 
 <p>&nbsp;</p>
