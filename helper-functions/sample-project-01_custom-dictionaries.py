@@ -1,6 +1,7 @@
 import watson_nlp
 import os
 import re
+import pandas as pd
 
 def createCustomDictionaries():
 
