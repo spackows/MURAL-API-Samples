@@ -1,5 +1,6 @@
 import watson_nlp
 import os
+import re
 
 def createCustomDictionaries():
 
