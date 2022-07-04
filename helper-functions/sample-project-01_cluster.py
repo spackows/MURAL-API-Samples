@@ -98,7 +98,7 @@ def listDistances( label, matrix, centroid ):
 def getKMeansClusters( df, col_name, num_clusters ):
     labels, matrix, indices_org, omitted_indices = buildWordsMatrix( df, col_name, 1 )
     matrix_norm = whiten( matrix )
-    centroid, label = kmeans2( matrix_norm, num_clusters )
+    centroid, label = kmeans2( matrix_norm, num_clusters, minit="points" )
     distances = listDistances( label, matrix_norm, centroid )
     results = np.asarray( [ list( label ), distances ] ).transpose()
     return results.tolist(), indices_org, omitted_indices
