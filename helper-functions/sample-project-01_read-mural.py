@@ -49,6 +49,9 @@ def stickyCategory( row, lunch_widget, golf_widget ):
 
 def readWidgets( mural_oauth_token, mural_id ):
     widgets_arr = listWidgets( mural_oauth_token, mural_id  )
+    if None == widgets_arr:
+        print( "Listing widgets failed" )
+        return None
     lunch_widget, golf_widget = getLunchAndMinigolfBoxes( widgets_arr )
     widgets_df_full = pd.DataFrame( widgets_arr )
     widgets_df_full.drop( widgets_df_full[ widgets_df_full.type != "sticky note" ].index, inplace=True )
