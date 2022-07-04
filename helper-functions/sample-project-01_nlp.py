@@ -2,15 +2,16 @@
 import watson_nlp
 import re
 
-
+syntax_model = watson_nlp.load( watson_nlp.download( "syntax_izumo_en_stock" ) )
+sentiment_model = watson_nlp.load( watson_nlp.download( "sentiment-document_bert_multi_stock" ) )
+    
+    
 def analyzeComment( comment ):
     syntax_result = syntax_model.run( comment )
     sentiment_result  = sentiment_model.run( syntax_result, sentence_sentiment = True )
     return sentiment_result.prettify_document_sentiment()
 
 def addSentiment( widgets_df ):
-    syntax_model = watson_nlp.load( watson_nlp.download( "syntax_izumo_en_stock" ) )
-    sentiment_model = watson_nlp.load( watson_nlp.download( "sentiment-document_bert_multi_stock" ) )
     sentiment_results = []
     for index, row in widgets_df.iterrows():
         comment = row["text"]
@@ -29,7 +30,6 @@ def getPOS( tokens_arr ):
     return result
 
 def addPOS( sentiment_df ):
-    syntax_model = watson_nlp.load( watson_nlp.download( "syntax_izumo_en_stock" ) )
     pos_arr = []
     for index, row in sentiment_df.iterrows():
         comment = row["text"]
