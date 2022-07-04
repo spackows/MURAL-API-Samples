@@ -5,6 +5,7 @@ from collections import OrderedDict
 from scipy.cluster.hierarchy import dendrogram, linkage
 from matplotlib import pyplot as plt
 from scipy import cluster
+import pandas as pd
 
 def countWords( df, col_name, min_count ):
     all_words = {}
