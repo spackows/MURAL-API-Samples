@@ -1,6 +1,7 @@
 
 import watson_nlp
 import re
+import pandas as pd
 
 syntax_model = watson_nlp.load( watson_nlp.download( "syntax_izumo_en_stock" ) )
 sentiment_model = watson_nlp.load( watson_nlp.download( "sentiment-document_bert_multi_stock" ) )
