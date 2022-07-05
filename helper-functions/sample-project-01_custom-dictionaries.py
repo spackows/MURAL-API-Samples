@@ -39,6 +39,7 @@ def createCustomDictionaries():
         table.write( "\"GOLF\", \"minigolf\"\n" )
         table.write( "\"GOLF\", \"golf\"\n" )
         table.write( "\"PLAY\", \"hole in one\"\n" )
+        table.write( "\"PLAY\", \"scores\"\n" )
         table.write( "\"WEATHER\", \"weather\"\n" )
         table.write( "\"WEATHER\", \"rain\"\n" )
         table.write( "\"COURSE\", \"golf course\"\n" )
