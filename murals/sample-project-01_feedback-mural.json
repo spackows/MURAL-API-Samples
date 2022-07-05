@@ -1,0 +1,420 @@
+[
+  {
+    "height": 830,
+    "stackingOrder": 0,
+    "width": 830,
+    "x": 2875.12,
+    "y": 4611.08,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#FF595EFF",
+      "fontSize": 100
+    },
+    "text": "Lunch at the restaurant was great!",
+    "type": "sticky note"
+  },
+  {
+    "height": 860,
+    "stackingOrder": 1,
+    "width": 860,
+    "x": 857.12,
+    "y": 4750.1,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#1982C4FF",
+      "fontSize": 100
+    },
+    "text": "Restaurant was far away",
+    "type": "sticky note"
+  },
+  {
+    "height": 787,
+    "stackingOrder": 2,
+    "width": 787,
+    "x": 8725.15,
+    "y": 3011,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#8AC926FF",
+      "fontSize": 100
+    },
+    "text": "Mini-golf is hilarious - we were getting pretty competitive with our scores!",
+    "type": "sticky note"
+  },
+  {
+    "height": 748,
+    "stackingOrder": 3,
+    "width": 748,
+    "x": 5066,
+    "y": 2678,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#6A4C93FF",
+      "fontSize": 100
+    },
+    "text": "Minigolf is lame",
+    "type": "sticky note"
+  },
+  {
+    "height": 904,
+    "stackingOrder": 4,
+    "width": 904,
+    "x": 520,
+    "y": 3309,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#FFCA3AFF",
+      "fontSize": 100
+    },
+    "text": "Yummy food",
+    "type": "sticky note"
+  },
+  {
+    "height": 855,
+    "stackingOrder": 5,
+    "width": 855,
+    "x": 2435.12,
+    "y": 3961.93,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#8AC926FF",
+      "fontSize": 100
+    },
+    "text": "Food was ok",
+    "type": "sticky note"
+  },
+  {
+    "height": 872,
+    "stackingOrder": 6,
+    "width": 872,
+    "x": 5673.94,
+    "y": 4775.94,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#8AC926FF",
+      "fontSize": 100
+    },
+    "text": "The minigolf was boring",
+    "type": "sticky note"
+  },
+  {
+    "height": 670,
+    "stackingOrder": 7,
+    "width": 670,
+    "x": 3453.46,
+    "y": 1655.5,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#8AC926FF",
+      "fontSize": 100
+    },
+    "text": "Disapointed by no vegetarian choices",
+    "type": "sticky note"
+  },
+  {
+    "height": 915,
+    "stackingOrder": 8,
+    "width": 915,
+    "x": 1846.61,
+    "y": 1740,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#6A4C93FF",
+      "fontSize": 100
+    },
+    "text": "Waiter at the restaurant was funny",
+    "type": "sticky note"
+  },
+  {
+    "height": 978.0070541709546,
+    "stackingOrder": 9,
+    "width": 978.0070541709546,
+    "x": -26.88,
+    "y": 1877.99,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#1982C4FF",
+      "fontSize": 158.57145604724457
+    },
+    "text": "Choose a restaurant with a vegetarian menu",
+    "type": "sticky note"
+  },
+  {
+    "height": 716,
+    "stackingOrder": 10,
+    "width": 716,
+    "x": 6747.62,
+    "y": 1461.98,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#1982C4FF",
+      "fontSize": 100
+    },
+    "text": "Let's do it again!",
+    "type": "sticky note"
+  },
+  {
+    "height": 701,
+    "stackingOrder": 11,
+    "width": 701,
+    "x": 3566.19,
+    "y": 3011,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#1982C4FF",
+      "fontSize": 100
+    },
+    "text": "It was nice to go out for lunch all together",
+    "type": "sticky note"
+  },
+  {
+    "height": 657,
+    "stackingOrder": 12,
+    "width": 657,
+    "x": 1599.62,
+    "y": 4026,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#6A4C93FF",
+      "fontSize": 100
+    },
+    "text": "Restaurant service was slow",
+    "type": "sticky note"
+  },
+  {
+    "height": 630,
+    "stackingOrder": 13,
+    "width": 630,
+    "x": 1740.12,
+    "y": 2924,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#1982C4FF",
+      "fontSize": 100
+    },
+    "text": "It was lovely",
+    "type": "sticky note"
+  },
+  {
+    "height": 883,
+    "stackingOrder": 14,
+    "width": 883,
+    "x": 6647.95,
+    "y": 3791.3,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#8AC926FF",
+      "fontSize": 100
+    },
+    "text": "So fun!",
+    "type": "sticky note"
+  },
+  {
+    "height": 835,
+    "stackingOrder": 15,
+    "width": 835,
+    "x": 2553,
+    "y": 2448,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#1982C4FF",
+      "fontSize": 100
+    },
+    "text": "Bread was so warm and fresh!",
+    "type": "sticky note"
+  },
+  {
+    "height": 761,
+    "stackingOrder": 16,
+    "width": 761,
+    "x": 7730.08,
+    "y": 2124.14,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#FF595EFF",
+      "fontSize": 100
+    },
+    "text": "I got a hole in one",
+    "type": "sticky note"
+  },
+  {
+    "height": 915,
+    "stackingOrder": 17,
+    "width": 915,
+    "x": 7614.9,
+    "y": 1094,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#8AC926FF",
+      "fontSize": 100
+    },
+    "text": "The weather kind-of ruined the mini-golf",
+    "type": "sticky note"
+  },
+  {
+    "height": 812,
+    "stackingOrder": 18,
+    "width": 812,
+    "x": 7736.08,
+    "y": 4503.5,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#1982C4FF",
+      "fontSize": 100
+    },
+    "text": "The course was really fun",
+    "type": "sticky note"
+  },
+  {
+    "height": 891,
+    "stackingOrder": 19,
+    "width": 891,
+    "x": 7344.16,
+    "y": 3123.04,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#FFCA3AFF",
+      "fontSize": 100
+    },
+    "text": "Was a beautiful day and lovely weather for minigolf",
+    "type": "sticky note"
+  },
+  {
+    "height": 773,
+    "stackingOrder": 20,
+    "width": 773,
+    "x": 5221.85,
+    "y": 1404.98,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#1982C4FF",
+      "fontSize": 100
+    },
+    "text": "The golf course was a hoot!",
+    "type": "sticky note"
+  },
+  {
+    "height": 1092.429931640625,
+    "stackingOrder": 21,
+    "width": 1092.429931640625,
+    "x": 4329.87,
+    "y": 3761,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#1982C4FF",
+      "fontSize": 182.0716552734375
+    },
+    "text": "Fun little course",
+    "type": "sticky note"
+  },
+  {
+    "height": 758,
+    "stackingOrder": 22,
+    "width": 758,
+    "x": 6368.62,
+    "y": 2459.96,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#6A4C93FF",
+      "fontSize": 100
+    },
+    "text": "Too bad about the rain",
+    "type": "sticky note"
+  },
+  {
+    "height": 5441.890554077407,
+    "instruction": "<p>Enter feedback comments about lunch in this light blue box</p>",
+    "presentationIndex": 0,
+    "stackingOrder": -2,
+    "title": "Lunch feedback",
+    "width": 4076.6122634755434,
+    "x": 331.81,
+    "y": 402.09,
+    "shape": "square",
+    "style": {
+      "backgroundColor": "#ECFCFCFF",
+      "borderColor": "#000000FF",
+      "borderStyle": "solid",
+      "borderWidth": 3
+    },
+    "type": "shape"
+  },
+  {
+    "height": 5441.890554077407,
+    "stackingOrder": -3,
+    "width": 4060.2600097656245,
+    "x": 444.87,
+    "y": 481.8,
+    "shape": "square",
+    "style": {
+      "backgroundColor": "#B3B3B3FF",
+      "borderColor": "#FFFFFF00",
+      "borderStyle": "solid",
+      "borderWidth": 7
+    },
+    "type": "shape"
+  },
+  {
+    "height": 379.9453125,
+    "stackingOrder": 27,
+    "width": 1174,
+    "x": 6229.5,
+    "y": 456.05,
+    "style": {
+      "backgroundColor": "#FFFFFF00",
+      "font": "proxima-nova",
+      "fontSize": 312,
+      "textAlign": "left"
+    },
+    "text": "<div><span style=\"color:#2d9613\">Mini-golf</span></div>",
+    "type": "text"
+  },
+  {
+    "height": 5441.890554077407,
+    "stackingOrder": -5,
+    "width": 4060.2600097656245,
+    "x": 4916.4,
+    "y": 489.87,
+    "shape": "square",
+    "style": {
+      "backgroundColor": "#B3B3B3FF",
+      "borderColor": "#FFFFFF00",
+      "borderStyle": "solid",
+      "borderWidth": 7
+    },
+    "type": "shape"
+  },
+  {
+    "height": 5441.890554077407,
+    "instruction": "<p>Enter feedback comments about mini-golf in this light green box</p>",
+    "presentationIndex": 1,
+    "stackingOrder": -4,
+    "title": "Mini-golf feedback",
+    "width": 4076.6122634755434,
+    "x": 4803.34,
+    "y": 410.16,
+    "shape": "square",
+    "style": {
+      "backgroundColor": "#F6FFEFFF",
+      "borderColor": "#000000FF",
+      "borderStyle": "solid",
+      "borderWidth": 3
+    },
+    "type": "shape"
+  },
+  {
+    "height": 379.9453125,
+    "stackingOrder": 28,
+    "width": 825,
+    "x": 2022.62,
+    "y": 456.05,
+    "style": {
+      "backgroundColor": "#FFFFFF00",
+      "font": "proxima-nova",
+      "fontSize": 312,
+      "textAlign": "left"
+    },
+    "text": "<div><span style=\"color:#2589a7\">Lunch</span></div>",
+    "type": "text"
+  }
+]
