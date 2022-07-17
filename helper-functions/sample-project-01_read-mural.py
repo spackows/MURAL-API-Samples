@@ -47,17 +47,18 @@ def stickyCategory( row, lunch_widget, golf_widget ):
     return "LUNCH" if ( lunch_distance < golf_distance ) else "GOLF"
 
 
-def readWidgets( mural_oauth_token, mural_id ):
+def readWidgets( mural_oauth_token, mural_id, **kwargs ):
     widgets_arr = listWidgets( mural_oauth_token, mural_id  )
     if None == widgets_arr:
         print( "\nListing widgets failed" )
         return None
-    lunch_widget, golf_widget = getLunchAndMinigolfBoxes( widgets_arr )
     widgets_df_full = pd.DataFrame( widgets_arr )
     widgets_df_full.drop( widgets_df_full[ widgets_df_full.type != "sticky note" ].index, inplace=True )
     widgets_df = widgets_df_full[["id","x", "y","width","height","text","style"]].copy()
-    widgets_df["category_box"] = widgets_df.apply( stickyCategory, args=( lunch_widget, golf_widget ), axis=1 )
-    widgets_df.sort_values("category_box", inplace=True, ignore_index=True )
+    if ( "category_box" in kwargs ) and ( kwargs["category_box"] == True ):
+        lunch_widget, golf_widget = getLunchAndMinigolfBoxes( widgets_arr )
+        widgets_df["category_box"] = widgets_df.apply( stickyCategory, args=( lunch_widget, golf_widget ), axis=1 )
+        widgets_df.sort_values("category_box", inplace=True, ignore_index=True )
     return widgets_df
 
 	
