@@ -172,7 +172,7 @@ def addWidgetsToMuralDF( mural_oauth_token, mural_id, comments_df ):
 def addWidgetsToMural( mural_oauth_token, mural_id, **kwargs ):
     if "widgets_json" in kwargs:
         addWidgetsToMuralJSON( mural_oauth_token, mural_id, kwargs["widgets_json"] )
-    elif comments_df in kwargs:
+    elif "comments_df" in kwargs:
         addWidgetsToMuralDF( mural_oauth_token, mural_id, kwargs["comments_df"] )
     else:
         print( "No widgets specified.  Specify either: 'widgets_json' or 'comments_df'" )
