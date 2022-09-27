@@ -9,8 +9,11 @@ sentiment_model = watson_nlp.load( watson_nlp.download( "sentiment_sentence-bert
     
 def analyzeComment( comment ):
     syntax_result = syntax_model.run( comment )
-    sentiment_result  = sentiment_model.run( syntax_result )
-    return sentiment_result.prettify_document_sentiment()
+    sentiment_result  = sentiment_model.run_batch( syntax_result.get_sentence_texts(), syntax_result.sentences )
+    document_sentiment = predict_document_sentiment( sentiment_result, sentiment_model.class_idxs )
+    sentiment_dict = document_sentiment.to_dict()
+    sentiment_dict["label"] = re.sub( r"^.*_", "", sentiment_dict["label"].lower() ).title()
+    return sentiment_dict
 
 def addSentiment( widgets_df ):
     sentiment_results = []
