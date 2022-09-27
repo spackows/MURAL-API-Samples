@@ -90,5 +90,10 @@ def addEntities( pos_df, custom_dictionaries ):
         entities = getEntities( entities_raw )
         entities_arr.append( list( row ) + [ entities["DICTIONARY"] ] + [ entities["ENTITIES"] ]  )
     entities_df = pd.DataFrame( entities_arr, columns = pos_df.columns.tolist() + list( entities.keys() ) )
+    for index, row in entities_df.iterrows():
+    while "LUNCH" in row["ENTITIES"]:
+        row["ENTITIES"].remove( "LUNCH" )
+    while "GOLF" in row["ENTITIES"]:
+        row["ENTITIES"].remove( "GOLF" )
     return entities_df.sort_values( "DICTIONARY", ignore_index=True )
 
