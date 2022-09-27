@@ -91,12 +91,12 @@ def addEntities( pos_df, custom_dictionaries ):
         entities_arr.append( list( row ) + [ entities["DICTIONARY"] ] + [ entities["ENTITIES"] ]  )
     entities_df = pd.DataFrame( entities_arr, columns = pos_df.columns.tolist() + list( entities.keys() ) )
     for index, row in entities_df.iterrows():
-    while "LUNCH" in row["ENTITIES"]:
-        row["ENTITIES"].remove( "LUNCH" )
-    while "GOLF" in row["ENTITIES"]:
-        row["ENTITIES"].remove( "GOLF" )
+        while "LUNCH" in row["ENTITIES"]:
+            row["ENTITIES"].remove( "LUNCH" )
+        while "GOLF" in row["ENTITIES"]:
+            row["ENTITIES"].remove( "GOLF" )
     themes = []
-    for index, row in nlp_df.iterrows():
+    for index, row in entities_df.iterrows():
         entities_arr = row["ENTITIES"]
         theme = "GENERAL" if ( len( entities_arr ) < 1 ) else entities_arr[0]
         themes.append( theme )
