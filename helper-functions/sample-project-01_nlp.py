@@ -9,7 +9,7 @@ sentiment_model = watson_nlp.load( watson_nlp.download( "sentiment_sentence-bert
     
 def analyzeComment( comment ):
     syntax_result = syntax_model.run( comment )
-    sentiment_result  = sentiment_model.run( syntax_result, sentence_sentiment = True )
+    sentiment_result  = sentiment_model.run( syntax_result )
     return sentiment_result.prettify_document_sentiment()
 
 def addSentiment( widgets_df ):
