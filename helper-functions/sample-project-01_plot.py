@@ -7,6 +7,7 @@ from matplotlib.cm import ScalarMappable
 from matplotlib.colors import Normalize
 from matplotlib.gridspec import GridSpec
 
+# https://coolors.co/palette/ff595e-ffca3a-8ac926-1982c4-6a4c93
 my_palette = {
     "red"      : "#FF595E",
     "yellow"   : "#FFCA3A",
