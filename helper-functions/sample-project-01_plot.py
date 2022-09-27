@@ -104,3 +104,6 @@ def plotFeedback( nlp_df ):
     cb_axs.invert_xaxis()
 
     plt.show()
+    
+    return fig_bar
+
