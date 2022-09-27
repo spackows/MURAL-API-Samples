@@ -76,8 +76,8 @@ def clusterH( df, col_name, height = 1.25 ):
                        labels=labels,
                        leaf_font_size=12,
                        show_leaf_counts=True)
-    for label, leaf_color in zip( plt.gca().get_ymajorticklabels(), dend["leaves_color_list"] ):
-        label.set_color( leaf_color )
+    #for label, leaf_color in zip( plt.gca().get_ymajorticklabels(), dend["leaves_color_list"] ):
+    #    label.set_color( leaf_color )
     plt.show()
     clusterH_df = addClusterH( df, col_name, Z, labels, indices_org, omitted_indices, height )
     return clusterH_df.sort_values( [ "H_CLUSTER_ID", "LABEL" ], ignore_index=True )
