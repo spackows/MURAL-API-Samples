@@ -95,5 +95,11 @@ def addEntities( pos_df, custom_dictionaries ):
         row["ENTITIES"].remove( "LUNCH" )
     while "GOLF" in row["ENTITIES"]:
         row["ENTITIES"].remove( "GOLF" )
+    themes = []
+    for index, row in nlp_df.iterrows():
+        entities_arr = row["ENTITIES"]
+        theme = "GENERAL" if ( len( entities_arr ) < 1 ) else entities_arr[0]
+        themes.append( theme )
+    entities_df["theme"] = themes
     return entities_df.sort_values( "DICTIONARY", ignore_index=True )
 
