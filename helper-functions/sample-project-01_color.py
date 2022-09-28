@@ -35,7 +35,7 @@ def colorBySentiment( mural_oauth_token, mural_id, sentiment_df ):
     for index, row in sentiment_df.iterrows():
         sticky_id = row["id"]
         sentiment = row["SENTIMENT"]
-        new_color = my_palette[ sentiment_colors[ sentiment ] ]
+        new_color = my_palette[ sentiment_colors[ sentiment ] ] + "FF"
         error_str = colorSticky( sticky_id, new_color, mural_oauth_token, mural_id )
         if error_str:
             print( "Changing sticky color failed" )
@@ -44,4 +44,3 @@ def colorBySentiment( mural_oauth_token, mural_id, sentiment_df ):
             print( error_str )
             return
     print( "Done" )
-    
