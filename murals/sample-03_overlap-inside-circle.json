@@ -71,17 +71,10 @@
     "shape": "circle",
     "style": {
       "backgroundColor": "#FFFFFF00",
-      "bold": false,
-      "font": "proxima-nova",
-      "fontSize": 23,
-      "italic": false,
-      "strike": false,
-      "textAlign": "center",
-      "underline": false,
-      "fontColor": "#000000FF",
-      "strokeColor": "#000000FF",
-      "strokeSize": 3,
-      "strokeStyle": "solid"
+      "borderColor": "#000000FF",
+      "borderStyle": "solid",
+      "borderWidth": 3,
+      "fontColor": "#000000FF"
     },
     "type": "shape"
   }
