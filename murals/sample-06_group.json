@@ -280,17 +280,10 @@
       "y": 524.32,
       "style": {
          "backgroundColor": "#FFFFFF00",
-         "bold": false,
-         "font": "proxima-nova",
-         "fontSize": 23,
-         "italic": false,
-         "strike": false,
-         "textAlign": "center",
-         "underline": false,
-         "fontColor": "#000000FF",
-         "strokeColor": "#046307FF",
-         "strokeSize": 7,
-         "strokeStyle": "solid"
+         "borderColor": "#046307FF",
+         "borderStyle": "solid",
+         "borderWidth": 7,
+         "fontColor": "#000000FF"
       },
       "text": "",
       "type": "shape"
@@ -304,17 +297,10 @@
       "shape": "square",
       "style": {
          "backgroundColor": "#FFFFFF00",
-         "bold": false,
-         "font": "proxima-nova",
-         "fontSize": 23,
-         "italic": false,
-         "strike": false,
-         "textAlign": "center",
-         "underline": false,
-         "fontColor": "#000000FF",
-         "strokeColor": "#FFA500FF",
-         "strokeSize": 7,
-         "strokeStyle": "solid"
+         "borderColor": "#FFA500FF",
+         "borderStyle": "solid",
+         "borderWidth": 7,
+         "fontColor": "#000000FF"
       },
       "text": "",
       "type": "shape"
@@ -328,17 +314,10 @@
       "shape": "square",
       "style": {
          "backgroundColor": "#FFFFFF00",
-         "bold": false,
-         "font": "proxima-nova",
-         "fontSize": 23,
-         "italic": false,
-         "strike": false,
-         "textAlign": "center",
-         "underline": false,
-         "fontColor": "#000000FF",
-         "strokeColor": "#0000CDFF",
-         "strokeSize": 7,
-         "strokeStyle": "solid"
+         "borderColor": "#0000CDFF",
+         "borderStyle": "solid",
+         "borderWidth": 7,
+         "fontColor": "#000000FF"
       },
       "text": "",
       "type": "shape"
