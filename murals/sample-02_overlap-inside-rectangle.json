@@ -10,7 +10,15 @@
       "backgroundColor": "#FFFFFF00",
       "strokeColor": "#000000FF",
       "strokeSize": 3,
-      "strokeStyle": "solid"
+      "strokeStyle": "solid",
+      "bold": false,
+      "font": "proxima-nova",
+      "fontSize": 23,
+      "italic": false,
+      "strike": false,
+      "textAlign": "center",
+      "underline": false,
+      "border": false
     },
     "type": "shape"
   },
