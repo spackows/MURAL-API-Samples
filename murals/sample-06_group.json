@@ -278,6 +278,7 @@
       "width": 731.9999420166015,
       "x": 90.07,
       "y": 524.32,
+      "shape": "square",
       "style": {
          "backgroundColor": "#FFFFFF00",
          "borderColor": "#046307FF",
