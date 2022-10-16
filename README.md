@@ -132,6 +132,20 @@ Sample code snippets demonstrating using the MURAL API
 </ul>
 </td>
 </tr>
+<!-- sample 10 -->
+<tr>
+<td valign="top">
+<p><b>sample-10_translate</b></p>
+<img src="images/sample-10_translate.gif" width="200" title="Image of mural" />
+</td>
+<td valign="top">
+<p>Translate sticky notes</p>
+<ul>
+<li><a href="murals/sample-04_sentiment.json">Sample mural .json</a></li>
+<li><a href="notebooks/sample-10_translate.ipynb">Sample Python notebook</a></li>
+</ul>
+</td>
+</tr>
 </table>
 
 <p>&nbsp;</p>
