@@ -139,7 +139,7 @@ Sample code snippets demonstrating using the MURAL API
 <img src="images/sample-10_translate.gif" width="200" title="Image of mural" />
 </td>
 <td valign="top">
-<p>Translate sticky notes</p>
+<p>Post a copy of each English sticky note translated into French</p>
 <ul>
 <li><a href="murals/sample-04_sentiment.json">Sample mural .json</a></li>
 <li><a href="notebooks/sample-10_translate.ipynb">Sample Python notebook</a></li>
