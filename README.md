@@ -140,6 +140,7 @@ Sample code snippets demonstrating using the MURAL API
 </td>
 <td valign="top">
 <p>Post a copy of each English sticky note translated into French</p>
+<p>Uses <a href="https://cloud.ibm.com/catalog/services/language-translator">IBM Watson Language Translator</a></p>
 <ul>
 <li><a href="murals/sample-04_sentiment.json">Sample mural .json</a></li>
 <li><a href="notebooks/sample-10_translate.ipynb">Sample Python notebook</a></li>
