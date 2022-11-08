@@ -4,6 +4,8 @@ import json
 from IPython.display import display, HTML
 import re
 import pandas as pd
+import watson_nlp
+from watson_nlp.toolkit import predict_document_sentiment
 
 
 def createMural( room_name, workshop_key ):
