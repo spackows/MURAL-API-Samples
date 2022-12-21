@@ -39,6 +39,7 @@
             "width": 165,
             "x": 258,
             "y": 57,
+            "shape": "circle",
             "style": {
                "backgroundColor": "#FCFE7DFF",
                "fontSize": 15
