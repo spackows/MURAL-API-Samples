@@ -81,7 +81,6 @@
             "shape": "circle",
             "style": {
                "backgroundColor": "#C7FE80FF",
-               "fontSize": 23,
                "borderColor": "#000000FF",
                "borderStyle": "solid",
                "borderWidth": 3,
@@ -98,7 +97,6 @@
             "shape": "triangle",
             "style": {
                "backgroundColor": "#FDA101FF",
-               "fontSize": 23,
                "borderColor": "#FFFFFF00",
                "borderStyle": "solid",
                "borderWidth": 3,
