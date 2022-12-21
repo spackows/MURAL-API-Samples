@@ -1,0 +1,191 @@
+[
+   {
+      "mural_name": "About musical instruments",
+      "room": "A second room",
+      "folder": "Second folder",
+      "widgets_arr": [
+         {
+            "height": 100,
+            "width": 293,
+            "x": 87,
+            "y": 253,
+            "style": {
+               "backgroundColor": "#E1BBFCFF",
+               "fontSize": 24
+            },
+            "text": "You can clean a guitar by wiping it with a damp cloth.",
+            "type": "text"
+         },
+         {
+            "height": 146,
+            "width": 293,
+            "x": 449,
+            "y": 180,
+            "style": {
+               "backgroundColor": "#FFFFFF00",
+               "fontSize": 24
+            },
+            "text": "To attach a reed to a clarinet, first loosen the ligature. Then fit the flat side of the reed to the flat side of the mouthpiece.",
+            "type": "text"
+         },
+         {
+            "height": 165,
+            "width": 165,
+            "x": 258,
+            "y": 57,
+            "style": {
+               "backgroundColor": "#FCFE7DFF",
+               "fontSize": 15.078125
+            },
+            "text": "When tuning a violin string, use the peg first, and then the fine tuner (if there is one) after",
+            "type": "sticky note"
+         }
+      ]
+   },
+   {
+      "mural_name": "Farm animals",
+      "room": "A second room",
+      "folder": "First folder",
+      "widgets_arr": [
+         {
+            "height": 138,
+            "width": 138,
+            "x": 93,
+            "y": 125,
+            "style": {
+               "backgroundColor": "#E1BBFCFF",
+               "fontSize": 23
+            },
+            "text": "Cow",
+            "type": "sticky note"
+         },
+         {
+            "height": 138,
+            "width": 138,
+            "x": 254,
+            "y": 286,
+            "shape": "circle",
+            "style": {
+               "backgroundColor": "#C7FE80FF",
+               "fontSize": 23,
+               "borderColor": "#000000FF",
+               "borderStyle": "solid",
+               "borderWidth": 3,
+               "fontColor": "#000000FF"
+            },
+            "text": "Turkey",
+            "type": "shape"
+         },
+         {
+            "height": 125,
+            "width": 138,
+            "x": 392,
+            "y": 103,
+            "shape": "triangle",
+            "style": {
+               "backgroundColor": "#FDA101FF",
+               "fontSize": 23,
+               "borderColor": "#FFFFFF00",
+               "borderStyle": "solid",
+               "borderWidth": 3,
+               "fontColor": "#FFFFFFFF"
+            },
+            "text": "Horse",
+            "type": "shape"
+         }
+      ]
+   },
+   {
+      "mural_name": "Zoo animals",
+      "room": "A second room",
+      "folder": "",
+      "widgets_arr": [
+         {
+            "height": 138,
+            "width": 138,
+            "x": 148,
+            "y": 187,
+            "shape": "rectangle",
+            "style": {
+               "backgroundColor": "#FCFE7DFF",
+               "fontSize": 23
+            },
+            "text": "Elephant",
+            "type": "sticky note"
+         },
+         {
+            "height": 58,
+            "width": 124,
+            "x": 369,
+            "y": 136,
+            "style": {
+               "backgroundColor": "#FFFFFF00",
+               "fontSize": 48
+            },
+            "text": "Zebra",
+            "type": "text"
+         },
+         {
+            "height": 138,
+            "width": 230,
+            "x": 383,
+            "y": 290,
+            "shape": "rectangle",
+            "style": {
+               "backgroundColor": "#C7FE80FF",
+               "fontSize": 23
+            },
+            "text": "Polar bear",
+            "type": "sticky note"
+         }
+      ]
+   },
+   {
+      "mural_name": "Holiday classics",
+      "room": "Sarah's room",
+      "folder": "",
+      "widgets_arr": [
+         {
+            "height": 303,
+            "width": 303,
+            "x": 537,
+            "y": 492,
+            "shape": "rectangle",
+            "style": {
+               "backgroundColor": "#FCFE7DFF",
+               "fontSize": 31
+            },
+            "text": "'Twas the night before Christmas, when all through the house\nNot a creature was stirring, not even a mouse",
+            "type": "sticky note"
+         },
+         {
+            "height": 246,
+            "width": 412,
+            "x": 240,
+            "y": 138,
+            "shape": "rectangle",
+            "style": {
+               "backgroundColor": "#FFC2E8FF",
+               "fontSize": 31
+            },
+            "text": "Frosty the Snowman\nWas a jolly happy soul\nWith a corn cob pipe and a button nose\nAnd two eyes made out of coal",
+            "type": "sticky note"
+         },
+         {
+            "height": 374,
+            "width": 374,
+            "x": 848,
+            "y": 112,
+            "shape": "circle",
+            "style": {
+               "backgroundColor": "#9BEDFDFF",
+               "fontSize": 27
+            },
+            "text": "Rudolph the Red-Nosed Reindeer\nHad a very shiny nose\nAnd if you ever saw it\nYou would even say it glows",
+            "type": "sticky note"
+         }
+      ]
+   }
+]
+
+​
