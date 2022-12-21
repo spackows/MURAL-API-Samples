@@ -1,7 +1,10 @@
 [
    {
       "mural_name": "About musical instruments",
-      "room": "A second room",
+      "room": {
+         "name": "A second room",
+         "id": ""
+      },
       "folder": "Second folder",
       "widgets_arr": [
          {
@@ -44,7 +47,10 @@
    },
    {
       "mural_name": "Farm animals",
-      "room": "A second room",
+      "room": {
+         "name": "A second room",
+         "id": ""
+      },
       "folder": "First folder",
       "widgets_arr": [
          {
@@ -97,7 +103,10 @@
    },
    {
       "mural_name": "Zoo animals",
-      "room": "A second room",
+      "room": {
+         "name": "A second room",
+         "id": ""
+      },
       "folder": "",
       "widgets_arr": [
          {
@@ -142,7 +151,10 @@
    },
    {
       "mural_name": "Holiday classics",
-      "room": "Sarah's room",
+      "room": {
+         "name": "Sarah's room",
+         "id": ""
+      },
       "folder": "",
       "widgets_arr": [
          {
