@@ -5,7 +5,10 @@
          "name": "A second room",
          "id": ""
       },
-      "folder": "Second folder",
+      "folder": {
+         "name": "Second folder",
+         "id": ""
+      },
       "widgets_arr": [
          {
             "height": 100,
@@ -51,7 +54,10 @@
          "name": "A second room",
          "id": ""
       },
-      "folder": "First folder",
+      "folder": {
+         "name": "First folder",
+         "id": ""
+      },
       "widgets_arr": [
          {
             "height": 138,
@@ -107,7 +113,10 @@
          "name": "A second room",
          "id": ""
       },
-      "folder": "",
+      "folder": {
+         "name": "",
+         "id": ""
+      },
       "widgets_arr": [
          {
             "height": 138,
@@ -155,7 +164,10 @@
          "name": "Sarah's room",
          "id": ""
       },
-      "folder": "",
+      "folder": {
+         "name": "",
+         "id": ""
+      },
       "widgets_arr": [
          {
             "height": 303,
