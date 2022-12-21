@@ -35,7 +35,7 @@
             "y": 57,
             "style": {
                "backgroundColor": "#FCFE7DFF",
-               "fontSize": 15.078125
+               "fontSize": 15
             },
             "text": "When tuning a violin string, use the peg first, and then the fine tuner (if there is one) after",
             "type": "sticky note"
@@ -187,5 +187,3 @@
       ]
    }
 ]
-
-​
