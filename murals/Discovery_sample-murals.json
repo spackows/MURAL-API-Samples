@@ -65,6 +65,7 @@
             "width": 138,
             "x": 93,
             "y": 125,
+            "shape": "rectangle",
             "style": {
                "backgroundColor": "#E1BBFCFF",
                "fontSize": 23
