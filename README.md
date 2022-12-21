@@ -147,6 +147,28 @@ Sample code snippets demonstrating using the MURAL API
 </ul>
 </td>
 </tr>
+<!-- sample 11 -->
+<tr>
+<td valign="top">
+<p><b>sample-11_search</b></p>
+<img src="images/Discovery-MURAL-search-results-sm.png" width="200" title="Image of mural" />
+</td>
+<td valign="top">
+<p>Search murals using <a href="https://cloud.ibm.com/catalog/services/watson-discovery">IBM Watson Discovery</a></p>
+<ul>
+<li><a href="murals/Discovery_sample-murals.json">Sample murals (.json)</a></li>
+<li>Sample Python notebooks:
+<ul>
+<li><a href="notebooks/Discovery_00-Create-sample-murals-to-search.ipynb">Create sample murals</a></li>
+<li><a href="notebooks/Discovery_01-Read-data-from-MURAL.ipynb">Read live data from murals</a></li>
+<li><a href="notebooks/Discovery_02-Upload-documents-to-Discovery.ipynb">Index data in Discovery</a></li>
+<li><a href="notebooks/Discovery_03-Search-murals-in-Discovery.ipynb">Search murals</a></li>
+</ul>
+<li><a href="">Sample Flask app</a></li>
+</li>
+</ul>
+</td>
+</tr>
 </table>
 
 <p>&nbsp;</p>
