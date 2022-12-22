@@ -164,7 +164,7 @@ Sample code snippets demonstrating using the MURAL API
 <li><a href="notebooks/Discovery_02-Upload-documents-to-Discovery.ipynb">Index data in Discovery</a></li>
 <li><a href="notebooks/Discovery_03-Search-murals-in-Discovery.ipynb">Search murals</a></li>
 </ul>
-<li><a href="">Sample Flask app</a></li>
+<li><a href="https://github.com/spackows/MURAL-search">Sample Flask app</a></li>
 </li>
 </ul>
 </td>
