@@ -78,5 +78,26 @@
     },
     "text": "This is inside",
     "type": "sticky note"
+  },
+  {
+    "height": 138,
+    "id": "0-1650991717298",
+    "width": 138,
+    "x": 550.0,
+    "y": 550.0,
+    "shape": "rectangle",
+    "style": {
+      "backgroundColor": "#cafc03ff",
+      "bold": false,
+      "font": "proxima-nova",
+      "fontSize": 14,
+      "italic": true,
+      "strike": false,
+      "textAlign": "center",
+      "underline": false,
+      "border": true
+    },
+    "text": "This is the beginning of a really cool journey",
+    "type": "sticky note"
   }
 ]
