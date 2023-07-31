@@ -1,5 +1,38 @@
 [
   {
+    "height": 5441.890554077407,
+    "stackingOrder": -3,
+    "width": 4060.2600097656245,
+    "x": 444.87,
+    "y": 481.8,
+    "shape": "square",
+    "style": {
+      "backgroundColor": "#B3B3B3FF",
+      "borderColor": "#FFFFFF00",
+      "borderStyle": "solid",
+      "borderWidth": 7
+    },
+    "type": "shape"
+  },
+  {
+    "height": 5441.890554077407,
+    "instruction": "<p>Enter feedback comments about lunch in this light blue box</p>",
+    "presentationIndex": 0,
+    "stackingOrder": -2,
+    "title": "Lunch feedback",
+    "width": 4076.6122634755434,
+    "x": 331.81,
+    "y": 402.09,
+    "shape": "square",
+    "style": {
+      "backgroundColor": "#ECFCFCFF",
+      "borderColor": "#000000FF",
+      "borderStyle": "solid",
+      "borderWidth": 3
+    },
+    "type": "shape"
+  },
+  {
     "height": 830,
     "stackingOrder": 0,
     "width": 830,
@@ -320,39 +353,6 @@
     },
     "text": "Too bad about the rain",
     "type": "sticky note"
-  },
-  {
-    "height": 5441.890554077407,
-    "instruction": "<p>Enter feedback comments about lunch in this light blue box</p>",
-    "presentationIndex": 0,
-    "stackingOrder": -2,
-    "title": "Lunch feedback",
-    "width": 4076.6122634755434,
-    "x": 331.81,
-    "y": 402.09,
-    "shape": "square",
-    "style": {
-      "backgroundColor": "#ECFCFCFF",
-      "borderColor": "#000000FF",
-      "borderStyle": "solid",
-      "borderWidth": 3
-    },
-    "type": "shape"
-  },
-  {
-    "height": 5441.890554077407,
-    "stackingOrder": -3,
-    "width": 4060.2600097656245,
-    "x": 444.87,
-    "y": 481.8,
-    "shape": "square",
-    "style": {
-      "backgroundColor": "#B3B3B3FF",
-      "borderColor": "#FFFFFF00",
-      "borderStyle": "solid",
-      "borderWidth": 7
-    },
-    "type": "shape"
   },
   {
     "height": 379.9453125,
