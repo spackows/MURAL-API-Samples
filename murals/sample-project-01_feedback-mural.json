@@ -1,6 +1,39 @@
 [
   {
     "height": 5441.890554077407,
+    "stackingOrder": -5,
+    "width": 4060.2600097656245,
+    "x": 4916.4,
+    "y": 489.87,
+    "shape": "square",
+    "style": {
+      "backgroundColor": "#B3B3B3FF",
+      "borderColor": "#FFFFFF00",
+      "borderStyle": "solid",
+      "borderWidth": 7
+    },
+    "type": "shape"
+  },
+  {
+    "height": 5441.890554077407,
+    "instruction": "<p>Enter feedback comments about mini-golf in this light green box</p>",
+    "presentationIndex": 1,
+    "stackingOrder": -4,
+    "title": "Mini-golf feedback",
+    "width": 4076.6122634755434,
+    "x": 4803.34,
+    "y": 410.16,
+    "shape": "square",
+    "style": {
+      "backgroundColor": "#F6FFEFFF",
+      "borderColor": "#000000FF",
+      "borderStyle": "solid",
+      "borderWidth": 3
+    },
+    "type": "shape"
+  },
+  {
+    "height": 5441.890554077407,
     "stackingOrder": -3,
     "width": 4060.2600097656245,
     "x": 444.87,
@@ -368,39 +401,6 @@
     },
     "text": "<div><span style=\"color:#2d9613\">Mini-golf</span></div>",
     "type": "text"
-  },
-  {
-    "height": 5441.890554077407,
-    "stackingOrder": -5,
-    "width": 4060.2600097656245,
-    "x": 4916.4,
-    "y": 489.87,
-    "shape": "square",
-    "style": {
-      "backgroundColor": "#B3B3B3FF",
-      "borderColor": "#FFFFFF00",
-      "borderStyle": "solid",
-      "borderWidth": 7
-    },
-    "type": "shape"
-  },
-  {
-    "height": 5441.890554077407,
-    "instruction": "<p>Enter feedback comments about mini-golf in this light green box</p>",
-    "presentationIndex": 1,
-    "stackingOrder": -4,
-    "title": "Mini-golf feedback",
-    "width": 4076.6122634755434,
-    "x": 4803.34,
-    "y": 410.16,
-    "shape": "square",
-    "style": {
-      "backgroundColor": "#F6FFEFFF",
-      "borderColor": "#000000FF",
-      "borderStyle": "solid",
-      "borderWidth": 3
-    },
-    "type": "shape"
   },
   {
     "height": 379.9453125,
