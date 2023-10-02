@@ -1,0 +1,106 @@
+[
+   {
+      "height": 120.4134375,
+      "width": 737.2727272727274,
+      "x": 309.14001831054685,
+      "y": 370.37811889648435,
+      "style": {
+         "backgroundColor": "#FFFFFF00",
+         "font": "proxima-nova",
+         "fontSize": 48,
+         "textAlign": "right"
+      },
+      "text": "<div>Run a one-time \"midnight\u00a0\u00a0madness\" sale event</div>",
+      "type": "text"
+   },
+   {
+      "height": 120.4134375,
+      "width": 656.1277844164981,
+      "x": 1236.28,
+      "y": 370.38,
+      "style": {
+         "backgroundColor": "#FFFFFF00",
+         "font": "proxima-nova",
+         "fontSize": 48,
+         "textAlign": "left"
+      },
+      "text": "<div>Buy a billboard advertisement for the business</div>",
+      "type": "text"
+   },
+   {
+      "height": 180.62015625,
+      "width": 737.2635639026348,
+      "x": 309.1400260209839,
+      "y": 53.76016019593082,
+      "style": {
+         "backgroundColor": "#FFFFFF00",
+         "font": "proxima-nova",
+         "fontSize": 48,
+         "textAlign": "right"
+      },
+      "text": "<div>Create a frequent buyer program that gives people points they can redeem for discounts</div>",
+      "type": "text"
+   },
+   {
+      "height": 180.62015625,
+      "width": 591.288681464932,
+      "x": 1236.28,
+      "y": 53.76015930175781,
+      "style": {
+         "backgroundColor": "#FFFFFF00",
+         "font": "proxima-nova",
+         "fontSize": 48,
+         "textAlign": "left"
+      },
+      "text": "<div>Sponsor a famous spokesperson to advertise the business</div>",
+      "type": "text"
+   },
+   {
+      "height": 2386.6892643317283,
+      "width": 2.2737367544323206e-13,
+      "x": 1141.831893425923,
+      "y": -851.5223049838146,
+      "arrowType": "straight",
+      "points": [
+         {
+            "x": 2.2737367544323206e-13,
+            "y": 2386.6892643317283
+         },
+         {
+            "x": 0,
+            "y": 0
+         }
+      ],
+      "style": {
+         "strokeColor": "#000000FF",
+         "strokeStyle": "solid",
+         "strokeWidth": 3
+      },
+      "tip": "no tip",
+      "type": "arrow"
+   },
+   {
+      "height": 7.247535904753022e-13,
+      "width": 3095.9110590871637,
+      "x": -378.3102006182735,
+      "y": 296.47065277099614,
+      "arrowType": "straight",
+      "points": [
+         {
+            "x": 0,
+            "y": 7.247535904753022e-13
+         },
+         {
+            "x": 3095.9110590871637,
+            "y": 0
+         }
+      ],
+      "style": {
+         "strokeColor": "#000000FF",
+         "strokeStyle": "solid",
+         "strokeWidth": 3
+      },
+      "tip": "no tip",
+      "type": "arrow"
+   }
+]
