@@ -1,0 +1,242 @@
+[
+   {
+      "height": 168,
+      "width": 168,
+      "x": 470,
+      "y": 207,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#D8C7FFFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 21.25,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Our daily stand-ups take too long. Let's stop doing those.",
+      "type": "sticky note"
+   },
+   {
+      "height": 180.50000000000006,
+      "width": 180.50000000000006,
+      "x": 1334.9254545454546,
+      "y": 300.48909090909086,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FFF0F0FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 22.812500000000007,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Stop having all-hands meetings, because they don't add any value.",
+      "type": "sticky note"
+   },
+   {
+      "height": 168,
+      "width": 168,
+      "x": 880.4709250710229,
+      "y": 300.4891052246094,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FBF9E5FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 22.9375,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "I like the \"updates\" Slack channel - very efficient",
+      "type": "sticky note"
+   },
+   {
+      "height": 205.49999999999997,
+      "width": 205.49999999999997,
+      "x": 1108.92541015625,
+      "y": 361.8527355957031,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#F9F9EBFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 25.937499999999993,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Please keep the THINK-Thursday meeting-free afternoon!",
+      "type": "sticky note"
+   },
+   {
+      "height": 180.50000000000006,
+      "width": 180.50000000000006,
+      "x": 1314.4254594282668,
+      "y": 541.4436229359019,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#F0FAEBFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 20.99479166666667,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "I think we should record our meetings so they could be played back",
+      "type": "sticky note"
+   },
+   {
+      "height": 246.409090909091,
+      "width": 246.409090909091,
+      "x": 181.36363636363637,
+      "y": 389.909090909091,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#D8D8B1FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 23.53835227272728,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "At my friend's company, they have a lottery for plum parking spots. \u00a0We should do something similar!",
+      "type": "sticky note"
+   },
+   {
+      "height": 206.63636363636368,
+      "width": 206.63636363636368,
+      "x": 632.7,
+      "y": 399,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#F2F8FDFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 21.899621212121218,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Can we please stop having to sing the national anthem at the start of every day?!",
+      "type": "sticky note"
+   },
+   {
+      "height": 168,
+      "width": 168,
+      "x": 1547.425736860795,
+      "y": 500.49091685901993,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FFC061FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 22.9375,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Stop forcing everyone to attend the all-hands in person",
+      "type": "sticky note"
+   },
+   {
+      "height": 168,
+      "width": 168,
+      "x": 451.97119140624994,
+      "y": 567.3527166193182,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#349E92FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 28,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Loving the on-site day care",
+      "type": "sticky note"
+   },
+   {
+      "height": 206.81823730468744,
+      "width": 206.81823730468744,
+      "x": 861.0618181818182,
+      "y": 540.0799743652344,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#F7F7F7FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 28.194136301676423,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "The monthly performance awards are a nice recognition",
+      "type": "sticky note"
+   },
+   {
+      "height": 168,
+      "width": 168,
+      "x": 1599.6984641335227,
+      "y": 262.03636863014907,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#AAED92FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 28,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "We should keep meeting minutes",
+      "type": "sticky note"
+   },
+   {
+      "height": 258.59999084472656,
+      "width": 258.59999084472656,
+      "x": -104.84272727272727,
+      "y": 445.9454545454546,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#EFFBF8FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 24.681249141693115,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "If these power outages become a regular thing, we should invest in uninterrupted power supply infrastructure",
+      "type": "sticky note"
+   }
+]
