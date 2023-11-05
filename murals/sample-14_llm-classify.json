@@ -304,18 +304,9 @@
       "y": -450,
       "shape": "square",
       "style": {
-         "backgroundColor": "#FFFFFF00",
-         "bold": false,
          "borderColor": "#000000FF",
          "borderStyle": "solid",
          "borderWidth": 7,
-         "font": "proxima-nova",
-         "fontColor": "#000000FF",
-         "fontSize": 23,
-         "italic": false,
-         "strike": false,
-         "textAlign": "center",
-         "underline": false
       },
       "text": "",
       "type": "shape"
@@ -328,18 +319,9 @@
       "y": -450,
       "shape": "square",
       "style": {
-         "backgroundColor": "#FFFFFF00",
-         "bold": false,
          "borderColor": "#000000FF",
          "borderStyle": "solid",
          "borderWidth": 7,
-         "font": "proxima-nova",
-         "fontColor": "#000000FF",
-         "fontSize": 23,
-         "italic": false,
-         "strike": false,
-         "textAlign": "center",
-         "underline": false
       },
       "text": "",
       "type": "shape"
@@ -352,18 +334,9 @@
       "y": -450,
       "shape": "square",
       "style": {
-         "backgroundColor": "#FFFFFF00",
-         "bold": false,
          "borderColor": "#000000FF",
          "borderStyle": "solid",
          "borderWidth": 7,
-         "font": "proxima-nova",
-         "fontColor": "#000000FF",
-         "fontSize": 23,
-         "italic": false,
-         "strike": false,
-         "textAlign": "center",
-         "underline": false
       },
       "text": "",
       "type": "shape"
