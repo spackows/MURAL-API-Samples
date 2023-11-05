@@ -306,7 +306,7 @@
       "style": {
          "borderColor": "#000000FF",
          "borderStyle": "solid",
-         "borderWidth": 7,
+         "borderWidth": 7
       },
       "text": "",
       "type": "shape"
@@ -321,7 +321,7 @@
       "style": {
          "borderColor": "#000000FF",
          "borderStyle": "solid",
-         "borderWidth": 7,
+         "borderWidth": 7
       },
       "text": "",
       "type": "shape"
@@ -336,7 +336,7 @@
       "style": {
          "borderColor": "#000000FF",
          "borderStyle": "solid",
-         "borderWidth": 7,
+         "borderWidth": 7
       },
       "text": "",
       "type": "shape"
