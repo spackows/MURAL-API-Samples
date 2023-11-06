@@ -1,7 +1,97 @@
 [
    {
-      "height": 168,
+      "height": 1000,
       "id": "1",
+      "width": 475,
+      "x": 75,
+      "y": -450,
+      "shape": "square",
+      "style": {
+         "borderColor": "#000000FF",
+         "borderStyle": "solid",
+         "borderWidth": 7
+      },
+      "text": "",
+      "type": "shape"
+   },
+   {
+      "height": 1000,
+      "id": "2",
+      "width": 450,
+      "x": 600,
+      "y": -450,
+      "shape": "square",
+      "style": {
+         "borderColor": "#000000FF",
+         "borderStyle": "solid",
+         "borderWidth": 7
+      },
+      "text": "",
+      "type": "shape"
+   },
+   {
+      "height": 1000,
+      "id": "3",
+      "width": 475,
+      "x": 1100,
+      "y": -450,
+      "shape": "square",
+      "style": {
+         "borderColor": "#000000FF",
+         "borderStyle": "solid",
+         "borderWidth": 7
+      },
+      "text": "",
+      "type": "shape"
+   },
+   {
+      "height": 75,
+      "id": "4",
+      "width": 400,
+      "x": 108,
+      "y": -425,
+      "style": {
+         "backgroundColor": "#FFFFFF00",
+         "font": "proxima-nova",
+         "fontSize": 60,
+         "textAlign": "left"
+      },
+      "text": "Stop",
+      "type": "text"
+   },
+   {
+      "height": 75,
+      "id": "5",
+      "width": 400,
+      "x": 631,
+      "y": -425,
+      "style": {
+         "backgroundColor": "#FFFFFF00",
+         "font": "proxima-nova",
+         "fontSize": 60,
+         "textAlign": "left"
+      },
+      "text": "Continue",
+      "type": "text"
+   },
+   {
+      "height": 75,
+      "id": "6",
+      "width": 400,
+      "x": 1141,
+      "y": -425,
+      "style": {
+         "backgroundColor": "#FFFFFF00",
+         "font": "proxima-nova",
+         "fontSize": 60,
+         "textAlign": "left"
+      },
+      "text": "Start",
+      "type": "text"
+   },
+   {
+      "height": 168,
+      "id": "7",
       "width": 168,
       "x": 1699,
       "y": -455,
@@ -22,7 +112,7 @@
    },
    {
       "height": 180,
-      "id": "2",
+      "id": "8",
       "width": 180,
       "x": 2125,
       "y": -550,
@@ -43,7 +133,7 @@
    },
    {
       "height": 168,
-      "id": "3",
+      "id": "9",
       "width": 168,
       "x": 2280,
       "y": 194,
@@ -64,7 +154,7 @@
    },
    {
       "height": 205,
-      "id": "4",
+      "id": "10",
       "width": 205,
       "x": 2353,
       "y": -425,
@@ -85,7 +175,7 @@
    },
    {
       "height": 181,
-      "id": "5",
+      "id": "11",
       "width": 181,
       "x": 1905,
       "y": -384,
@@ -106,7 +196,7 @@
    },
    {
       "height": 246,
-      "id": "6",
+      "id": "12",
       "width": 246,
       "x": 1974,
       "y": 47,
@@ -127,7 +217,7 @@
    },
    {
       "height": 207,
-      "id": "7",
+      "id": "13",
       "width": 207,
       "x": 2112,
       "y": -303,
@@ -148,7 +238,7 @@
    },
    {
       "height": 168,
-      "id": "8",
+      "id": "14",
       "width": 168,
       "x": 1905,
       "y": -166,
@@ -169,7 +259,7 @@
    },
    {
       "height": 168,
-      "id": "9",
+      "id": "15",
       "width": 168,
       "x": 1645,
       "y": -244,
@@ -190,7 +280,7 @@
    },
    {
       "height": 207,
-      "id": "10",
+      "id": "16",
       "width": 207,
       "x": 1813,
       "y": 331,
@@ -211,7 +301,7 @@
    },
    {
       "height": 168,
-      "id": "11",
+      "id": "17",
       "width": 168,
       "x": 2251,
       "y": -63,
@@ -232,7 +322,7 @@
    },
    {
       "height": 259,
-      "id": "12",
+      "id": "18",
       "width": 259,
       "x": 1684,
       "y": 35,
@@ -250,95 +340,5 @@
       },
       "text": "If these power outages become a regular thing, we should invest in uninterrupted power supply infrastructure",
       "type": "sticky note"
-   },
-   {
-      "height": 75,
-      "id": "13",
-      "width": 121,
-      "x": 108,
-      "y": -425,
-      "style": {
-         "backgroundColor": "#FFFFFF00",
-         "font": "proxima-nova",
-         "fontSize": 60,
-         "textAlign": "left"
-      },
-      "text": "Stop",
-      "type": "text"
-   },
-   {
-      "height": 75,
-      "id": "14",
-      "width": 239,
-      "x": 631,
-      "y": -425,
-      "style": {
-         "backgroundColor": "#FFFFFF00",
-         "font": "proxima-nova",
-         "fontSize": 60,
-         "textAlign": "left"
-      },
-      "text": "Continue",
-      "type": "text"
-   },
-   {
-      "height": 75,
-      "id": "15",
-      "width": 121,
-      "x": 1141,
-      "y": -425,
-      "style": {
-         "backgroundColor": "#FFFFFF00",
-         "font": "proxima-nova",
-         "fontSize": 60,
-         "textAlign": "left"
-      },
-      "text": "Start",
-      "type": "text"
-   },
-   {
-      "height": 1000,
-      "id": "16",
-      "width": 475,
-      "x": 75,
-      "y": -450,
-      "shape": "square",
-      "style": {
-         "borderColor": "#000000FF",
-         "borderStyle": "solid",
-         "borderWidth": 7
-      },
-      "text": "",
-      "type": "shape"
-   },
-   {
-      "height": 1000,
-      "id": "17",
-      "width": 450,
-      "x": 600,
-      "y": -450,
-      "shape": "square",
-      "style": {
-         "borderColor": "#000000FF",
-         "borderStyle": "solid",
-         "borderWidth": 7
-      },
-      "text": "",
-      "type": "shape"
-   },
-   {
-      "height": 1000,
-      "id": "18",
-      "width": 475,
-      "x": 1100,
-      "y": -450,
-      "shape": "square",
-      "style": {
-         "borderColor": "#000000FF",
-         "borderStyle": "solid",
-         "borderWidth": 7
-      },
-      "text": "",
-      "type": "shape"
    }
 ]
