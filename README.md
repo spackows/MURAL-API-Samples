@@ -193,10 +193,23 @@ Sample code snippets demonstrating using the MURAL API
 <img src="https://github.com/spackows/MURAL-API-Samples/blob/main/images/sample-13_devils-advocate_02.png" width="200" title="Image of mural" />
 </td>
 <td valign="top">
-<p>Seed a mural with arguments against proposed plans using a foundation mofel in IBM watsonx.ai</p>
+<p>Seed a mural with arguments against proposed plans using a foundation model in IBM watsonx.ai</p>
 <ul>
 <li><a href="https://sarah-packowski.medium.com/have-an-llm-play-devils-advocate-to-improve-your-chance-of-success-31bf3a39e930">Blog post</a></li>
 <li><a href="notebooks/sample-13_devils-advocate.ipynb">Sample Python notebook</a></li>
+</ul>
+</td>
+</tr>
+<!-- sample 14 -->
+<tr>
+<td valign="top">
+<p><b>sample-14_classify-by-class-name</b></p>
+<img src="https://github.com/spackows/MURAL-API-Samples/blob/main/images/sample-14_classify-by-class-name_04.gif" width="200" title="Image of mural" />
+</td>
+<td valign="top">
+<p>Classify sticky notes by class name only, using a foundation model in IBM watsonx.ai</p>
+<ul>
+<li><a href="notebooks/sample-14_classify-by-class-name.ipynb">Sample Python notebook</a></li>
 </ul>
 </td>
 </tr>
