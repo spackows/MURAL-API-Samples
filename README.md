@@ -226,6 +226,19 @@ Sample code snippets demonstrating using the MURAL API
 </ul>
 </td>
 </tr>
+<!-- sample 16 -->
+<tr>
+<td valign="top">
+<p><b>sample-16_classify-by-exemplars</b></p>
+<img src="https://github.com/spackows/MURAL-API-Samples/blob/main/images/sample-16_classify-by-exemplars_04.gif" width="200" title="Image of mural" />
+</td>
+<td valign="top">
+<p>Classify sticky notes by class exemplars, using a foundation model in <a href="https://www.ibm.com/products/watsonx-ai">IBM watsonx.ai</a></p>
+<ul>
+<li><a href="notebooks/sample-16_classify-by-exemplars.ipynb">Sample Python notebook</a></li>
+</ul>
+</td>
+</tr>
 </table>
 
 <p>&nbsp;</p>
