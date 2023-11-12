@@ -45,51 +45,6 @@
       "type": "shape"
    },
    {
-      "height": 75,
-      "id": "4",
-      "width": 400,
-      "x": 108,
-      "y": -425,
-      "style": {
-         "backgroundColor": "#FFFFFF00",
-         "font": "proxima-nova",
-         "fontSize": 60,
-         "textAlign": "left"
-      },
-      "text": "Stop",
-      "type": "text"
-   },
-   {
-      "height": 75,
-      "id": "5",
-      "width": 400,
-      "x": 631,
-      "y": -425,
-      "style": {
-         "backgroundColor": "#FFFFFF00",
-         "font": "proxima-nova",
-         "fontSize": 60,
-         "textAlign": "left"
-      },
-      "text": "Continue",
-      "type": "text"
-   },
-   {
-      "height": 75,
-      "id": "6",
-      "width": 400,
-      "x": 1141,
-      "y": -425,
-      "style": {
-         "backgroundColor": "#FFFFFF00",
-         "font": "proxima-nova",
-         "fontSize": 60,
-         "textAlign": "left"
-      },
-      "text": "Start",
-      "type": "text"
-   },
-   {
       "height": 168,
       "id": "7",
       "width": 168,
