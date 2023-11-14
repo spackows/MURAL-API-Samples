@@ -66,8 +66,29 @@
       "type": "sticky note"
    },
    {
-      "height": 180,
+      "height": 207,
       "id": "5",
+      "width": 207,
+      "x": 2112,
+      "y": -303,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#F2F8FDFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 21.899621212121218,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Can we please stop having to sing the national anthem at the start of every day?!",
+      "type": "sticky note"
+   },
+   {
+      "height": 180,
+      "id": "6",
       "width": 180,
       "x": 2125,
       "y": -550,
@@ -88,112 +109,7 @@
    },
    {
       "height": 168,
-      "id": "6",
-      "width": 168,
-      "x": 2280,
-      "y": 194,
-      "shape": "rectangle",
-      "style": {
-         "backgroundColor": "#FBF9E5FF",
-         "bold": false,
-         "border": false,
-         "font": "proxima-nova",
-         "fontSize": 22.9375,
-         "italic": false,
-         "strike": false,
-         "textAlign": "center",
-         "underline": false
-      },
-      "text": "I like the \"updates\" Slack channel - very efficient",
-      "type": "sticky note"
-   },
-   {
-      "height": 205,
       "id": "7",
-      "width": 205,
-      "x": 2353,
-      "y": -425,
-      "shape": "rectangle",
-      "style": {
-         "backgroundColor": "#F9F9EBFF",
-         "bold": false,
-         "border": false,
-         "font": "proxima-nova",
-         "fontSize": 25.937499999999993,
-         "italic": false,
-         "strike": false,
-         "textAlign": "center",
-         "underline": false
-      },
-      "text": "Please let's continue the THINK-Thursday meeting-free afternoon!",
-      "type": "sticky note"
-   },
-   {
-      "height": 181,
-      "id": "8",
-      "width": 181,
-      "x": 1905,
-      "y": -384,
-      "shape": "rectangle",
-      "style": {
-         "backgroundColor": "#F0FAEBFF",
-         "bold": false,
-         "border": false,
-         "font": "proxima-nova",
-         "fontSize": 20.99479166666667,
-         "italic": false,
-         "strike": false,
-         "textAlign": "center",
-         "underline": false
-      },
-      "text": "I think we should record our meetings so they could be played back",
-      "type": "sticky note"
-   },
-   {
-      "height": 246,
-      "id": "9",
-      "width": 246,
-      "x": 1974,
-      "y": 47,
-      "shape": "rectangle",
-      "style": {
-         "backgroundColor": "#D8D8B1FF",
-         "bold": false,
-         "border": false,
-         "font": "proxima-nova",
-         "fontSize": 23.53835227272728,
-         "italic": false,
-         "strike": false,
-         "textAlign": "center",
-         "underline": false
-      },
-      "text": "At my friend's company, they have a lottery for plum parking spots. \u00a0We should do something similar!",
-      "type": "sticky note"
-   },
-   {
-      "height": 207,
-      "id": "10",
-      "width": 207,
-      "x": 2112,
-      "y": -303,
-      "shape": "rectangle",
-      "style": {
-         "backgroundColor": "#F2F8FDFF",
-         "bold": false,
-         "border": false,
-         "font": "proxima-nova",
-         "fontSize": 21.899621212121218,
-         "italic": false,
-         "strike": false,
-         "textAlign": "center",
-         "underline": false
-      },
-      "text": "Can we please stop having to sing the national anthem at the start of every day?!",
-      "type": "sticky note"
-   },
-   {
-      "height": 168,
-      "id": "11",
       "width": 168,
       "x": 1905,
       "y": -166,
@@ -214,7 +130,28 @@
    },
    {
       "height": 168,
-      "id": "12",
+      "id": "8",
+      "width": 168,
+      "x": 2280,
+      "y": 194,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FBF9E5FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 22.9375,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "I like the \"updates\" Slack channel - very efficient",
+      "type": "sticky note"
+   },
+   {
+      "height": 168,
+      "id": "9",
       "width": 168,
       "x": 1645,
       "y": -244,
@@ -234,8 +171,29 @@
       "type": "sticky note"
    },
    {
+      "height": 205,
+      "id": "10",
+      "width": 205,
+      "x": 2353,
+      "y": -425,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#F9F9EBFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 25.937499999999993,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Please let's continue the THINK-Thursday meeting-free afternoon!",
+      "type": "sticky note"
+   },
+   {
       "height": 207,
-      "id": "13",
+      "id": "11",
       "width": 207,
       "x": 1813,
       "y": 331,
@@ -252,6 +210,48 @@
          "underline": false
       },
       "text": "The monthly performance awards are a nice recognition",
+      "type": "sticky note"
+   },
+   {
+      "height": 181,
+      "id": "12",
+      "width": 181,
+      "x": 1905,
+      "y": -384,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#F0FAEBFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 20.99479166666667,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "I think we should record our meetings so they could be played back",
+      "type": "sticky note"
+   },
+   {
+      "height": 246,
+      "id": "13",
+      "width": 246,
+      "x": 1974,
+      "y": 47,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#D8D8B1FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 23.53835227272728,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "At my friend's company, they have a lottery for plum parking spots. \u00a0We should do something similar!",
       "type": "sticky note"
    },
    {
