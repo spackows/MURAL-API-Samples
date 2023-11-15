@@ -1,6 +1,6 @@
 [
    {
-      "height": 1000,
+      "height": 1100,
       "id": "1",
       "width": 475,
       "x": 75,
@@ -15,7 +15,7 @@
       "type": "shape"
    },
    {
-      "height": 1000,
+      "height": 1100,
       "id": "2",
       "width": 450,
       "x": 600,
@@ -30,7 +30,7 @@
       "type": "shape"
    },
    {
-      "height": 1000,
+      "height": 1100,
       "id": "3",
       "width": 475,
       "x": 1100,
