@@ -239,6 +239,19 @@ Sample code snippets demonstrating using the MURAL API
 </ul>
 </td>
 </tr>
+<!-- sample 17 -->
+<tr>
+<td valign="top">
+<p><b>sample-17_llm-cluster</b></p>
+<img src="https://github.com/spackows/MURAL-API-Samples/blob/main/images/sample-17_llm-cluster_04.gif" width="200" title="Image of mural" />
+</td>
+<td valign="top">
+<p>Cluster sticky notes by using a foundation model in <a href="https://www.ibm.com/products/watsonx-ai">IBM watsonx.ai</a> to identify top three themes in the sticky notes and then classify the sticky notes by those themes.</p>
+<ul>
+<li><a href="notebooks/sample-17_llm-cluster.ipynb">Sample Python notebook</a></li>
+</ul>
+</td>
+</tr>
 </table>
 
 <p>&nbsp;</p>
