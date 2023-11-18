@@ -60,7 +60,7 @@ def listWidgets( auth_token, mural_id ):
 
 
 def createArcs( class_names_arr ):
-    if( len( class_names_arr ) , 1 ):
+    if( len( class_names_arr ) < 1 ):
         return []
     num_arcs = len( class_names_arr )
     arc_size = 360 / num_arcs
