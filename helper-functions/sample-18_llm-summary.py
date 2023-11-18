@@ -41,7 +41,6 @@ def putWidgets( auth_token, mural_id, widgets_arr ):
 
 
 def listWidgets( auth_token, mural_id ):
-    auth_token = refreshToken()
     # https://developers.mural.co/public/reference/getmuralwidgets
     url = "https://app.mural.co/api/public/v1/murals/" + mural_id + "/widgets"
     headers = { "Accept": "application/json", "Authorization": "Bearer " + auth_token }
@@ -245,8 +244,6 @@ def moveSticky( auth_token, mural_id, sticky_id, new_x, new_y ):
 
 
 def putStickiesInArc( auth_token, mural_id, arc, stickies_arr_in ):
-    
-    auth_token = refreshToken()
     
     sticky_radius = 325
     sticky_distance = 400
