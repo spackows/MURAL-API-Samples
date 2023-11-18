@@ -36,7 +36,7 @@ def putWidgets( auth_token, mural_id, widgets_arr ):
     for widget in widgets_arr:
         error_str = putWidget( auth_token, mural_id, widget )
         if error_str:
-            return error_str + "\n" + json.dumps( widget, indent=3 ) )
+            return error_str + "\n" + json.dumps( widget, indent=3 )
     return ""
 
 
