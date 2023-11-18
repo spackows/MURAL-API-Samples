@@ -1,0 +1,443 @@
+[
+   {
+      "id": "1",
+      "height": 337,
+      "width": 337,
+      "x": -552,
+      "y": 450,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#AAED92FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 35,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "We need to focus more on automated regression processes to improve quality",
+      "type": "sticky note"
+   },
+   {
+      "id": "2",
+      "height": 340,
+      "width": 340,
+      "x": 1402,
+      "y": -1000,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FEBBBEFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 36,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Our development process should devote 1 week out of every 8 to only fixing bugs",
+      "type": "sticky note"
+   },
+   {
+      "id": "3",
+      "height": 323,
+      "width": 323,
+      "x": -2005,
+      "y": 589,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#949474FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 34,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Streamline our defect approval process because it's too time-consuming and tedious",
+      "type": "sticky note"
+   },
+   {
+      "id": "4",
+      "height": 332,
+      "width": 332,
+      "x": 1987,
+      "y": -112,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#D8C7FFFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 35,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Onboarding new team members takes ages because our processes are so complex",
+      "type": "sticky note"
+   },
+   {
+      "id": "5",
+      "height": 459,
+      "width": 459,
+      "x": 880,
+      "y": -376,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#349E92FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 43,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Our processes are not documented.. one or two of our senior people are the only ones to really understand everything",
+      "type": "sticky note"
+   },
+   {
+      "id": "6",
+      "height": 305,
+      "width": 305,
+      "x": 1487,
+      "y": -536,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#B05B0DFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 35,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "The defect process is so time-consuming that nobody reports bugs",
+      "type": "sticky note"
+   },
+   {
+      "id": "7",
+      "height": 265,
+      "width": 265,
+      "x": -1663,
+      "y": 148,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#E364A2FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 44,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "We should streamline our processes",
+      "type": "sticky note"
+   },
+   {
+      "id": "8",
+      "height": 318,
+      "width": 318,
+      "x": 279,
+      "y": 450,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#459C5BFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 36.75,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Managers need specific training on how to manage remote employees",
+      "type": "sticky note"
+   },
+   {
+      "id": "9",
+      "height": 407,
+      "width": 407,
+      "x": -1093,
+      "y": -86,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FFC061FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 37,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Increase the manager-to-employee ratio, because currently managers don't have time for each person they manage",
+      "type": "sticky note"
+   },
+   {
+      "id": "10",
+      "height": 379,
+      "width": 379,
+      "x": 822,
+      "y": 184,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#B3B3B3FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 36,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Regularly move people to different managers - to benefit from different management styles",
+      "type": "sticky note"
+   },
+   {
+      "id": "11",
+      "height": 412,
+      "width": 412,
+      "x": -909,
+      "y": -643,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FCF281FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 35,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "I wish we gave managers more support so they don't have to learn everything the hard way - derailing peoples' careers along the way",
+      "type": "sticky note"
+   },
+   {
+      "id": "12",
+      "height": 387,
+      "width": 387,
+      "x": -439,
+      "y": -139,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#EFFBF8FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 41,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Assess managers based on how successfully their reports grow and improve and get promoted",
+      "type": "sticky note"
+   },
+   {
+      "id": "13",
+      "height": 476,
+      "width": 476,
+      "x": 1402,
+      "y": 113,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#7035CCFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 40.151041666666664,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "From a career growth perspective, my manager is totally absent.. She and I meet once a year for evaluations and otherwise I never see her!",
+      "type": "sticky note"
+   },
+   {
+      "id": "14",
+      "height": 352,
+      "width": 352,
+      "x": -2122,
+      "y": -204,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FFF0F0FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 35.27669270833333,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "If you have a weak manager, your career will stagnate until you move to a different team or company",
+      "type": "sticky note"
+   },
+   {
+      "id": "15",
+      "height": 555,
+      "width": 555,
+      "x": 506,
+      "y": -1046,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#F0FAEBFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 35,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "When people need flexible hours or time off, don't require them to specify a reason, because everyone's life has different pressures, no one reason is more legitimate than another, and not having to disclose would reduce bias and discrimination",
+      "type": "sticky note"
+   },
+   {
+      "id": "16",
+      "height": 508,
+      "width": 508,
+      "x": -250,
+      "y": -798,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#2897DCFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 38,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Give everyone the ability to work from home with no questions asked, so no one has to explain personal details of their life (eg. physical or mental disability, burnout, or caring obligations)",
+      "type": "sticky note"
+   },
+   {
+      "id": "17",
+      "height": 396,
+      "width": 396,
+      "x": 178,
+      "y": -223,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#E364A2FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 40,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "Establish a blanket rule that nobody is required to respond to emails outside regular working hours",
+      "type": "sticky note"
+   },
+   {
+      "id": "18",
+      "height": 374,
+      "width": 374,
+      "x": -813,
+      "y": -1173,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#D4D4D4FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 39,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "After age 50, growth and development opportunities dry up and disappear, this is age-ism",
+      "type": "sticky note"
+   },
+   {
+      "id": "19",
+      "height": 277,
+      "width": 277,
+      "x": 924,
+      "y": 787,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#FCF281FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 46.22916666666663,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "We should explore the 4-day work week",
+      "type": "sticky note"
+   },
+   {
+      "id": "20",
+      "height": 544,
+      "width": 544,
+      "x": -1276,
+      "y": 450,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#D8C7FFFF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 35,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "My parents took sabbaticals every few years, it was a tremendous growth opportunity for them and they brought reviewed energy and new ideas back to work with them when they returned. \u00a0We should implement opportunities for sabbaticals too.",
+      "type": "sticky note"
+   },
+   {
+      "id": "21",
+      "height": 373,
+      "width": 373,
+      "x": -1547,
+      "y": -546,
+      "shape": "rectangle",
+      "style": {
+         "backgroundColor": "#767656FF",
+         "bold": false,
+         "border": false,
+         "font": "proxima-nova",
+         "fontSize": 39.196614583333336,
+         "italic": false,
+         "strike": false,
+         "textAlign": "center",
+         "underline": false
+      },
+      "text": "We need better support and understanding for parents juggling childcare",
+      "type": "sticky note"
+   }
+]
