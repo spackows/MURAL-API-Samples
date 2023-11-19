@@ -252,6 +252,20 @@ Sample code snippets demonstrating using the MURAL API
 </ul>
 </td>
 </tr>
+<!-- sample 18 -->
+<tr>
+<td valign="top">
+<p><b>sample-18_llm-summary</b></p>
+<img src="https://github.com/spackows/MURAL-API-Samples/blob/main/images/sample-18_llm-summary_04.gif" width="200" title="Image of mural" />
+</td>
+<td valign="top">
+<p>Use a foundation model in <a href="https://www.ibm.com/products/watsonx-ai">IBM watsonx.ai</a> to analyze sticky notes in a mural: identify themes, classify sticky notes, and summarize classes. Then generate a report.</p>
+<ul>
+<li><a href="notebooks/sample-18_llm-summary.ipynb">Sample Python notebook</a></li>
+</ul>
+<img src="https://github.com/spackows/MURAL-API-Samples/blob/main/images/sample-18_llm-summary_05.png" width="400" title="Image of report" />
+</td>
+</tr>
 </table>
 
 <p>&nbsp;</p>
